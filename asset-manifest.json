@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Yummy-recipes/static/css/main.7cb5b80b.css",
+    "main.css": "/Yummy-recipes/static/css/main.6270d776.css",
     "main.js": "/Yummy-recipes/static/js/main.926472f5.js",
     "index.html": "/Yummy-recipes/index.html",
-    "main.7cb5b80b.css.map": "/Yummy-recipes/static/css/main.7cb5b80b.css.map",
+    "main.6270d776.css.map": "/Yummy-recipes/static/css/main.6270d776.css.map",
     "main.926472f5.js.map": "/Yummy-recipes/static/js/main.926472f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cb5b80b.css",
+    "static/css/main.6270d776.css",
     "static/js/main.926472f5.js"
   ]
 }
